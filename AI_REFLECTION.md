@@ -1,1 +1,4 @@
-
+Tools used: ChatGPT, was used to help guide me in making my repository in github and how to make each file. Also used it to help me figure out how to print my results for my code because I was on a MacBook and the guidance is a lot different compared to Windows.
+One decision: ChatGPT explained to me step by step on how to print my results like, Step 1 - Go to the respoitory main page, Step 2 - Click the green code button, Step 3 - Choose Codespaces, Step 4 - Create the Codespace, Step 5 - Open the terminal, Step 6 - Run your C++ program. Basically accepting ChatGPT's assistance to help guide me on how to use GitHub because it's something I've never used before.
+Verification: The compiler result I used to check my work was GitHub's compiler.
+Learning: I still need to learn on how to navigate through GitHub and just to keep on improving on writing code for different scenarios.
